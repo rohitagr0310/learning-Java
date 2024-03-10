@@ -1,15 +1,15 @@
-package Geekster;
+package Geekster.operators;
 
 import java.util.Scanner;
 
-public class Arithmetic_operations {
+public class ArithmeticOperations {
 
   Scanner scanner_class = new Scanner(System.in);
 
   int number1;
   int number2;
 
-  public Arithmetic_operations() {
+  public ArithmeticOperations() {
     System.out.print("Enter first number - ");
     number1 = scanner_class.nextInt();
     System.out.print("Enter Second number - ");
@@ -38,7 +38,8 @@ public class Arithmetic_operations {
   }
 
   public static void main(String[] args) {
-    Arithmetic_operations obj = new Arithmetic_operations();
+    ArithmeticOperations obj = new ArithmeticOperations();
+
     obj.display();
 
     Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-public class variableType {
+public class VariableType {
 
   public void localVariable() {
     String name = "jack";
@@ -7,7 +7,7 @@ public class variableType {
   }
 
   public static void main(String[] args) {
-    variableType vt = new variableType();
+    VariableType vt = new VariableType();
 
     vt.localVariable();
   }
