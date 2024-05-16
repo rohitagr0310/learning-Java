@@ -1,3 +1,5 @@
+package examples;
+
 public class Example1_update_values {
 
   String name = "Rajesh";

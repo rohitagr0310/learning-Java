@@ -1,3 +1,5 @@
+package variables;
+
 public class VariableType {
 
   public void localVariable() {

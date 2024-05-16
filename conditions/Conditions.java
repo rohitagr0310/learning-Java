@@ -1,3 +1,5 @@
+package conditions;
+
 import java.util.Scanner;
 
 public class Conditions {

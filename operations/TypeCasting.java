@@ -1,4 +1,4 @@
-// Package declaration
+package operations;
 
 // Class for demonstrating type casting
 public class TypeCasting {

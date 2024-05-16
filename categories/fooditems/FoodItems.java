@@ -1,3 +1,5 @@
+package categories.fooditems;
+
 public class FoodItems {
 
   public static void Vegetables() {

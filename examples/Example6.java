@@ -1,3 +1,5 @@
+package examples;
+
 public class Example6 {
 
   String name;

@@ -1,3 +1,5 @@
+package examples;
+
 public class Example1 {
 
   String name = "Rajesh";

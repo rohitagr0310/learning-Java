@@ -1,3 +1,5 @@
+package utilities;
+
 public class Functions {
 
   public void printMessage() {

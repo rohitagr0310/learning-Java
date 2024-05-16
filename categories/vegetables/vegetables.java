@@ -1,3 +1,5 @@
+package categories.vegetables;
+
 public class vegetables {
 
   public static void vegetables() {

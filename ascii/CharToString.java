@@ -1,3 +1,5 @@
+package ascii;
+
 public class CharToString {
 
   public static void main(String[] args) {
